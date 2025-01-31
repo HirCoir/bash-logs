@@ -1,4 +1,4 @@
 [
-{"base_url": "https://huggingface.co/rhasspy/piper-voices/resolve/main/", "json_url": "https://huggingface.co/rhasspy/piper-voices/raw/main/voices.json"},
-{"base_url": "https://huggingface.co/HirCoir/piper-voices/resolve/main/", "json_url": "https://huggingface.co/HirCoir/piper-voices/raw/main/voices.json"}
-]
+  {"base_url": "https://huggingface.co/rhasspy/piper-voices/resolve/main/", "json_url": "https://huggingface.co/rhasspy/piper-voices/raw/main/voices.json", "author_repo": "rhasspy"},
+  {"base_url": "https://huggingface.co/HirCoir/piper-voices/resolve/main/", "json_url": "https://huggingface.co/HirCoir/piper-voices/raw/main/voices.json", "author_repo": "HirCoir"}
+] 
